@@ -1,0 +1,3 @@
+﻿  matrix-openMP.cpp
+C:\Users\liza0\OneDrive\Desktop\matrix-openMP\matrix-openMP\matrix-openMP.cpp(14,23): error C3861: 'rand': identifier not found
+C:\Users\liza0\OneDrive\Desktop\matrix-openMP\matrix-openMP\matrix-openMP.cpp(15,23): error C3861: 'rand': identifier not found
